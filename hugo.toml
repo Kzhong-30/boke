@@ -1,0 +1,15 @@
+baseURL = "https://kzhong-30.github.io/boke/"
+languageCode = "zh-cn"
+title = "Kzhong 的技术博客"
+theme = "paper"
+defaultContentLanguage = "zh"
+paginate = 10
+enableEmoji = true
+
+[params]
+  description = "技术博客 - AI、前端、工程实践"
+  author = "Kzhong"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
