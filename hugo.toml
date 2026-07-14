@@ -3,8 +3,10 @@ languageCode = "zh-cn"
 title = "Kzhong 的技术博客"
 theme = "paper"
 defaultContentLanguage = "zh"
-paginate = 10
 enableEmoji = true
+
+[pagination]
+  pagerSize = 10
 
 [params]
   description = "技术博客 - AI、前端、工程实践"
